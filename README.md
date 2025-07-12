@@ -1,6 +1,5 @@
 192640 - SHALO NATALIE NASIMIYU
-OBJECT ORIENTED PROGRAMMING CODING CHALLANGES 1-6
-
+OBJECT ORIENTED PROGRAMMING ASSIGNMENT
 - **AbstractClasses** – Demonstrates the use of abstract classes and methods.
 - **ArrayChallenge** – Contains exercises involving arrays and their manipulation.
 - **CHALLENGES** – A collection of various Java coding challenges.
