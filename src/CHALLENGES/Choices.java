@@ -1,3 +1,5 @@
+package CHALLENGES;
+
 public class Choices {
     public static void main(String[] args) {
         int temp=15;

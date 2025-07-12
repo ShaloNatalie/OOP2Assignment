@@ -1,3 +1,5 @@
+package CHALLENGES;
+
 public class Variables {
     void displayNewBalance(){
        

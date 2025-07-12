@@ -1,3 +1,5 @@
+package CHALLENGES;
+
 import java.util.Random;
 
 public class randomUtil {

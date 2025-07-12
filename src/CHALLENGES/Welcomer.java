@@ -1,3 +1,5 @@
+package CHALLENGES;
+
 public class Welcomer{
     void welcome() {
         System.out.println("HELLO!");
